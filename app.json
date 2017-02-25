@@ -1,0 +1,17 @@
+{
+  "name": "auth-app",
+  "description": "Milkcocoa auth app",
+  "keywords": [ "Milkcocoa", "Auth" ],
+  "repository": "https://github.com/syuhei176/auth-app.git",
+  "env": {
+    "MILKCOCOA_APP_ID": {
+      "description": "Milkcocoa App ID",
+      "value": "appid"
+    },
+    "MILKCOCOA_APIKEY": {
+      "description": "Milkcocoa APIKey",
+      "value": "apikey"
+    }
+  },
+  "addons": [ ]
+}
